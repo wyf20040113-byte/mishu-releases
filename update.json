@@ -1,13 +1,13 @@
 {
-  "versionCode": 18,
-  "versionName": "0.18",
-  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.18.apk",
+  "versionCode": 19,
+  "versionName": "0.19",
+  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.19.apk",
   "urls": [
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.18.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.18.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.18.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.18.apk"
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.19.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.19.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.19.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.19.apk"
   ],
-  "sha256": "e4e1070dfc1b3667241d8da2c17549617fa541e9b742edc7d2899a017c9476e1",
-  "notes": "支持发送任意文件：PDF、Word、Excel、文本都能读"
+  "sha256": "ac0dbf187ae743298887d0044bf1e719f3a8ac578d2d0fec208ad1a05975fae9",
+  "notes": "修下载卡在坏镜像上：超时收紧、显示轮换进度、优先用能通的源"
 }
