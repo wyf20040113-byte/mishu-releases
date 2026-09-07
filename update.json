@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "0.11",
-  "url": "https://github.com/wyf20040113-byte/mishu-releases/releases/download/v0.11/mishu-0.11.apk",
-  "sha256": "549174b686d36288923d5bf38a58528daa8df14de92418d76db550454a03a535",
-  "notes": "首个带远程更新的版本。聊天界面、原生常驻通知、图文一起发、正在想动画。"
+  "versionCode": 12,
+  "versionName": "0.12",
+  "url": "https://github.com/wyf20040113-byte/mishu-releases/releases/download/v0.12/mishu-0.12.apk",
+  "sha256": "1dcdc4d2f945f23b61dbc8722f8c8713082f1bf9ceb44e57b53dfdaabf2c3008",
+  "notes": "后台服务改独立进程、划掉后自动拉起、设置页显示心跳诊断"
 }
