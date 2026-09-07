@@ -1,13 +1,13 @@
 {
-  "versionCode": 22,
-  "versionName": "0.22",
-  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.22.apk",
+  "versionCode": 23,
+  "versionName": "0.23",
+  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.23.apk",
   "urls": [
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.22.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.22.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.22.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.22.apk"
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.23.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.23.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.23.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.23.apk"
   ],
-  "sha256": "3c59a74d8e545c82fc5c73aa93a6b39f1aa16371440728a974887b7625b47075",
-  "notes": "修划掉的待办重启后复活"
+  "sha256": "5c38a56a4368bdf19fc3b028671d8ea3f87420f5fe913f6ff14e9fa4eb77954c",
+  "notes": "状态灯改报小秘死活（心跳）；数据走单独通道不再刷屏"
 }
