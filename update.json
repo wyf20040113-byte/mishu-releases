@@ -1,13 +1,13 @@
 {
-  "versionCode": 13,
-  "versionName": "0.13",
-  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.13.apk",
+  "versionCode": 14,
+  "versionName": "0.14",
+  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.14.apk",
   "urls": [
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.13.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.13.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.13.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.13.apk"
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.14.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.14.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.14.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.14.apk"
   ],
-  "sha256": "22bfdbfaab212cfb2a86ef9cbcd7788277072baaa05f204932898ccc83409573",
-  "notes": "多镜像更新源、后台看门狗（15 分钟巡检）、心跳诊断"
+  "sha256": "089445479ab297c457cb599561e0df64be7deb2dfd4a47908e7c05426ca946e8",
+  "notes": "更新检查改成取版本号最大的源（jsDelivr 各入口缓存不同步）"
 }
