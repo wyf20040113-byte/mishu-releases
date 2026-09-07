@@ -1,13 +1,13 @@
 {
-  "versionCode": 17,
-  "versionName": "0.17",
-  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.17.apk",
+  "versionCode": 18,
+  "versionName": "0.18",
+  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.18.apk",
   "urls": [
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.17.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.17.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.17.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.17.apk"
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.18.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.18.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.18.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.18.apk"
   ],
-  "sha256": "83c6ee7dfbef91bbc9f162cf57c40f5882af7264e0cf726197a99acb861bc99d",
-  "notes": "通知显示完整内容；超长自动截断；在 app 里聊天时不再重复弹通知"
+  "sha256": "e4e1070dfc1b3667241d8da2c17549617fa541e9b742edc7d2899a017c9476e1",
+  "notes": "支持发送任意文件：PDF、Word、Excel、文本都能读"
 }
