@@ -1,13 +1,13 @@
 {
-  "versionCode": 21,
-  "versionName": "0.21",
-  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.21.apk",
+  "versionCode": 22,
+  "versionName": "0.22",
+  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.22.apk",
   "urls": [
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.21.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.21.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.21.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.21.apk"
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.22.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.22.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.22.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.22.apk"
   ],
-  "sha256": "08bd3518ed5db1a95eda691c1a72b2983f7a81f6b9a7df68bb905ef8bf530180",
-  "notes": "修界面变砖（设置关不掉、输入框没反应）；加号改成三选一面板；待办置顶清单"
+  "sha256": "3c59a74d8e545c82fc5c73aa93a6b39f1aa16371440728a974887b7625b47075",
+  "notes": "修划掉的待办重启后复活"
 }
