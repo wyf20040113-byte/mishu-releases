@@ -1,13 +1,13 @@
 {
-  "versionCode": 15,
-  "versionName": "0.15",
-  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.15.apk",
+  "versionCode": 17,
+  "versionName": "0.17",
+  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.17.apk",
   "urls": [
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.15.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.15.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.15.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.15.apk"
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.17.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.17.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.17.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.17.apk"
   ],
-  "sha256": "b15e7533defc5a8b2219bdbefdfe74fdec01360319f7b9eb32666a985156a052",
-  "notes": "修卡在检查中（并行+超时）；新增一键跳转 ROM 自启动设置"
+  "sha256": "83c6ee7dfbef91bbc9f162cf57c40f5882af7264e0cf726197a99acb861bc99d",
+  "notes": "通知显示完整内容；超长自动截断；在 app 里聊天时不再重复弹通知"
 }
