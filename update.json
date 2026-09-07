@@ -1,7 +1,7 @@
 {
   "versionCode": 12,
   "versionName": "0.12",
-  "url": "https://github.com/wyf20040113-byte/mishu-releases/releases/download/v0.12/mishu-0.12.apk",
+  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.12.apk",
   "sha256": "1dcdc4d2f945f23b61dbc8722f8c8713082f1bf9ceb44e57b53dfdaabf2c3008",
-  "notes": "后台服务改独立进程、划掉后自动拉起、设置页显示心跳诊断"
+  "notes": "后台服务改独立进程、划掉后自动拉起、心跳诊断"
 }
