@@ -1,13 +1,13 @@
 {
-  "versionCode": 19,
-  "versionName": "0.19",
-  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.19.apk",
+  "versionCode": 20,
+  "versionName": "0.20",
+  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.20.apk",
   "urls": [
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.19.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.19.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.19.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.19.apk"
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.20.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.20.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.20.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.20.apk"
   ],
-  "sha256": "ac0dbf187ae743298887d0044bf1e719f3a8ac578d2d0fec208ad1a05975fae9",
-  "notes": "修下载卡在坏镜像上：超时收紧、显示轮换进度、优先用能通的源"
+  "sha256": "5f7621eb1ce273d85d73ed5a657774ebad80e337dd787c1049ba9f4ff2b2bf32",
+  "notes": "待办置顶清单（完成划横线）；加号改成正经的选项面板"
 }
