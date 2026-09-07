@@ -1,13 +1,13 @@
 {
-  "versionCode": 14,
-  "versionName": "0.14",
-  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.14.apk",
+  "versionCode": 15,
+  "versionName": "0.15",
+  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.15.apk",
   "urls": [
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.14.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.14.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.14.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.14.apk"
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.15.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.15.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.15.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.15.apk"
   ],
-  "sha256": "089445479ab297c457cb599561e0df64be7deb2dfd4a47908e7c05426ca946e8",
-  "notes": "更新检查改成取版本号最大的源（jsDelivr 各入口缓存不同步）"
+  "sha256": "b15e7533defc5a8b2219bdbefdfe74fdec01360319f7b9eb32666a985156a052",
+  "notes": "修卡在检查中（并行+超时）；新增一键跳转 ROM 自启动设置"
 }
