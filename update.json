@@ -1,7 +1,12 @@
 {
-  "versionCode": 12,
-  "versionName": "0.12",
-  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.12.apk",
-  "sha256": "1dcdc4d2f945f23b61dbc8722f8c8713082f1bf9ceb44e57b53dfdaabf2c3008",
-  "notes": "后台服务改独立进程、划掉后自动拉起、心跳诊断"
+  "versionCode": 13,
+  "versionName": "0.13",
+  "urls": [
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.13.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.13.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.13.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.13.apk"
+  ],
+  "sha256": "22bfdbfaab212cfb2a86ef9cbcd7788277072baaa05f204932898ccc83409573",
+  "notes": "多镜像更新源、后台看门狗（15 分钟巡检）、心跳诊断"
 }
