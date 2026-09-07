@@ -1,13 +1,13 @@
 {
-  "versionCode": 20,
-  "versionName": "0.20",
-  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.20.apk",
+  "versionCode": 21,
+  "versionName": "0.21",
+  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.21.apk",
   "urls": [
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.20.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.20.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.20.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.20.apk"
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.21.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.21.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.21.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.21.apk"
   ],
-  "sha256": "5f7621eb1ce273d85d73ed5a657774ebad80e337dd787c1049ba9f4ff2b2bf32",
-  "notes": "待办置顶清单（完成划横线）；加号改成正经的选项面板"
+  "sha256": "08bd3518ed5db1a95eda691c1a72b2983f7a81f6b9a7df68bb905ef8bf530180",
+  "notes": "修界面变砖（设置关不掉、输入框没反应）；加号改成三选一面板；待办置顶清单"
 }
