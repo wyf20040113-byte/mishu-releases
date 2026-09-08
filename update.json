@@ -1,13 +1,13 @@
 {
-  "versionCode": 25,
-  "versionName": "0.25",
-  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.25.apk",
+  "versionCode": 26,
+  "versionName": "0.26",
+  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.26.apk",
   "urls": [
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.25.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.25.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.25.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.25.apk"
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.26.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.26.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.26.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.26.apk"
   ],
-  "sha256": "b8a3bb4b4b71d4b7db07513166ef14d4afd8b65b0a5fc521aa4816154a8dc48a",
-  "notes": "小秘会说话了：每条回复能点喇叭朗读，也能在设置里开自动读、调语速"
+  "sha256": "cf2203b90d9c1c40e55b600ed9c4967936843fb002719ebdf0d8d64f01c9bd8b",
+  "notes": "修输入法组词时按回车会把拼音发出去的问题"
 }
