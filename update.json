@@ -1,13 +1,13 @@
 {
-  "versionCode": 29,
-  "versionName": "0.29",
-  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.29.apk",
+  "versionCode": 30,
+  "versionName": "0.30",
+  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.30.apk",
   "urls": [
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.29.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.29.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.29.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.29.apk"
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.30.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.30.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.30.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.30.apk"
   ],
-  "sha256": "1409039968ddd6f31ab050b318ee5ceac3366a00fbc20613006cc94031acb92b",
-  "notes": "设置分成常用/高级，可换聊天背景，派了活能看到进度，待办空了也有提示"
+  "sha256": "6f2bff126b5edada26673551913e2166552c4554a80c33aa4612299481f95d30",
+  "notes": "外观换成暖色（可在设置里选四套主题），新增「加入家庭」申请流程"
 }
