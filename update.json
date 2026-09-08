@@ -1,16 +1,16 @@
 {
-  "versionCode": 34,
-  "versionName": "0.34",
-  "url": "https://ghfast.top/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.34.apk",
+  "versionCode": 35,
+  "versionName": "0.35",
+  "url": "https://ghfast.top/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.35.apk",
   "urls": [
-    "https://ghfast.top/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.34.apk",
-    "https://cdn.statically.io/gh/wyf20040113-byte/mishu-releases/main/apk/mishu-0.34.apk",
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.34.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.34.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.34.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.34.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.34.apk"
+    "https://ghfast.top/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.35.apk",
+    "https://cdn.statically.io/gh/wyf20040113-byte/mishu-releases/main/apk/mishu-0.35.apk",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.35.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.35.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.35.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.35.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.35.apk"
   ],
-  "sha256": "4f8bfdbe4d1e750588a8c07546c4cf24c92b5a396a82292017ad64a34d014da8",
-  "notes": "换到自建服务器（更快、不限量），需要在设置里填 token"
+  "sha256": "1b5643b7c89b4265f95e47d792510d802c827c5f45f44756928485ef9c374f4e",
+  "notes": "修「填对了token也说不对」：老配置会自动搬到新服务器"
 }
