@@ -1,13 +1,16 @@
 {
-  "versionCode": 31,
-  "versionName": "0.31",
-  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.31.apk",
+  "versionCode": 32,
+  "versionName": "0.32",
+  "url": "https://ghfast.top/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.32.apk",
   "urls": [
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.31.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.31.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.31.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.31.apk"
+    "https://ghfast.top/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.32.apk",
+    "https://cdn.statically.io/gh/wyf20040113-byte/mishu-releases/main/apk/mishu-0.32.apk",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.32.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.32.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.32.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.32.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.32.apk"
   ],
-  "sha256": "77df36e52db4f49d5849c2d5e25def8a019ef9fee46433d1e3cbb2efb362dbee",
-  "notes": "输入区/侧边栏/设置页重做，加号面板直接铺最近的照片"
+  "sha256": "fe37096be28a7d3b2efcdd3d55776239fd528fa9d5804529070dae0513e6bd35",
+  "notes": "修更新搜不到的问题（换了更新源）；加号面板直接铺最近照片；侧边栏和设置页重做"
 }
