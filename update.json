@@ -1,13 +1,13 @@
 {
-  "versionCode": 26,
-  "versionName": "0.26",
-  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.26.apk",
+  "versionCode": 27,
+  "versionName": "0.27",
+  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.27.apk",
   "urls": [
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.26.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.26.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.26.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.26.apk"
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.27.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.27.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.27.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.27.apk"
   ],
-  "sha256": "cf2203b90d9c1c40e55b600ed9c4967936843fb002719ebdf0d8d64f01c9bd8b",
-  "notes": "修输入法组词时按回车会把拼音发出去的问题"
+  "sha256": "867a1fd97bb07a525073ea836620a56c72683fc6d68a06b26d99bae20777003d",
+  "notes": "修朗读没声音：应用侧把系统语音引擎挡住了，跟手机装没装引擎无关"
 }
