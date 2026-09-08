@@ -1,16 +1,16 @@
 {
-  "versionCode": 32,
-  "versionName": "0.32",
-  "url": "https://ghfast.top/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.32.apk",
+  "versionCode": 33,
+  "versionName": "0.33",
+  "url": "https://ghfast.top/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.33.apk",
   "urls": [
-    "https://ghfast.top/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.32.apk",
-    "https://cdn.statically.io/gh/wyf20040113-byte/mishu-releases/main/apk/mishu-0.32.apk",
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.32.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.32.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.32.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.32.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.32.apk"
+    "https://ghfast.top/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.33.apk",
+    "https://cdn.statically.io/gh/wyf20040113-byte/mishu-releases/main/apk/mishu-0.33.apk",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.33.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.33.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.33.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.33.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.33.apk"
   ],
-  "sha256": "fe37096be28a7d3b2efcdd3d55776239fd528fa9d5804529070dae0513e6bd35",
-  "notes": "修更新搜不到的问题（换了更新源）；加号面板直接铺最近照片；侧边栏和设置页重做"
+  "sha256": "a06ca20da41ce4144e8b2027658a45683d506da9292cd8c3f6b5a76e2c0e6127",
+  "notes": "图标全部换成线性图标，设置页改成豆包那种导航行+子页"
 }
