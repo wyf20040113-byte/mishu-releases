@@ -1,13 +1,13 @@
 {
-  "versionCode": 24,
-  "versionName": "0.24",
-  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.24.apk",
+  "versionCode": 25,
+  "versionName": "0.25",
+  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.25.apk",
   "urls": [
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.24.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.24.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.24.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.24.apk"
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.25.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.25.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.25.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.25.apk"
   ],
-  "sha256": "23f622cd0f80e6ab02233fc71f46b7ef4c09718c89dd67b3bef9fa010968f990",
-  "notes": "待办可以推给家人：对方收到确认，点了接受才进他的清单"
+  "sha256": "b8a3bb4b4b71d4b7db07513166ef14d4afd8b65b0a5fc521aa4816154a8dc48a",
+  "notes": "小秘会说话了：每条回复能点喇叭朗读，也能在设置里开自动读、调语速"
 }
