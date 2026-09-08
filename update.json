@@ -1,13 +1,13 @@
 {
-  "versionCode": 28,
-  "versionName": "0.28",
-  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.28.apk",
+  "versionCode": 29,
+  "versionName": "0.29",
+  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.29.apk",
   "urls": [
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.28.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.28.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.28.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.28.apk"
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.29.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.29.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.29.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.29.apk"
   ],
-  "sha256": "072a99ad501663b3dbbce7d7ea83a1bdabfaef39f4f90ae3c0ece8d6ebf68fbd",
-  "notes": "语音换成电脑合成的晓晓音色，手机自带引擎退居兜底"
+  "sha256": "1409039968ddd6f31ab050b318ee5ceac3366a00fbc20613006cc94031acb92b",
+  "notes": "设置分成常用/高级，可换聊天背景，派了活能看到进度，待办空了也有提示"
 }
