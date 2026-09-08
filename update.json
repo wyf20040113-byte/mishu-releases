@@ -1,13 +1,13 @@
 {
-  "versionCode": 27,
-  "versionName": "0.27",
-  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.27.apk",
+  "versionCode": 28,
+  "versionName": "0.28",
+  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.28.apk",
   "urls": [
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.27.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.27.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.27.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.27.apk"
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.28.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.28.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.28.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.28.apk"
   ],
-  "sha256": "867a1fd97bb07a525073ea836620a56c72683fc6d68a06b26d99bae20777003d",
-  "notes": "修朗读没声音：应用侧把系统语音引擎挡住了，跟手机装没装引擎无关"
+  "sha256": "072a99ad501663b3dbbce7d7ea83a1bdabfaef39f4f90ae3c0ece8d6ebf68fbd",
+  "notes": "语音换成电脑合成的晓晓音色，手机自带引擎退居兜底"
 }
