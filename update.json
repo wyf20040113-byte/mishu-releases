@@ -1,13 +1,13 @@
 {
-  "versionCode": 30,
-  "versionName": "0.30",
-  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.30.apk",
+  "versionCode": 31,
+  "versionName": "0.31",
+  "url": "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.31.apk",
   "urls": [
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.30.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.30.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.30.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.30.apk"
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.31.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.31.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.31.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.31.apk"
   ],
-  "sha256": "6f2bff126b5edada26673551913e2166552c4554a80c33aa4612299481f95d30",
-  "notes": "外观换成暖色（可在设置里选四套主题），新增「加入家庭」申请流程"
+  "sha256": "77df36e52db4f49d5849c2d5e25def8a019ef9fee46433d1e3cbb2efb362dbee",
+  "notes": "输入区/侧边栏/设置页重做，加号面板直接铺最近的照片"
 }
