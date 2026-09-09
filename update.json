@@ -1,10 +1,10 @@
 {
-  "versionCode": 37,
-  "versionName": "0.37",
+  "versionCode": 39,
+  "versionName": "0.39",
   "urls": [
-    "https://ghfast.top/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.37.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.37.apk"
+    "https://ghfast.top/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.39.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.39.apk"
   ],
-  "sha256": "14ecb80bd0c2f1f2690d80a242cb4fa241c84615359d165b0c51db300d5e3163",
-  "notes": "发出去的图自己也能看见了：以前只显示 ntfy 那句英文 You received a file，图看不见。现在气泡里直接显示缩略图，点一下看大图；上传前会先压缩，省流量也快。"
+  "sha256": "89e5dadc7168fcd6d7c4b60006183e32be26a14e7af22eeea18ee14f9d355296",
+  "notes": "长按说话：输入框空着时右边是麦克风，按住说、松开直接发，上划取消。说的话在手机上转成文字，音频不上传。手机没有语音识别服务的话麦克风按钮不会出现。"
 }
