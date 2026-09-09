@@ -2,9 +2,12 @@
   "versionCode": 42,
   "versionName": "0.42",
   "urls": [
-    "https://ghfast.top/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.42.apk",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.42.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.42.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.42.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.42.apk",
     "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.42.apk"
   ],
   "sha256": "36c465532b3f7ac453fb882a94ac071e6ef4946624553dc00a04a657e73b1b48",
-  "notes": "输入框改成豆包那样：点一下打字，按住说话（上划取消）。占位符会写「发消息或按住说话」。顺带修了加号和发送图标在圆钮里没居中的问题。"
+  "notes": "输入框改成豆包那样：点一下打字，按住说话（上划取消）。顺带修了加号和发送图标在圆钮里没居中。（本次还修了下载源：之前 APK 只挂了两个国内不通的地址。）"
 }
