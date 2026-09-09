@@ -1,10 +1,10 @@
 {
-  "versionCode": 39,
-  "versionName": "0.39",
+  "versionCode": 42,
+  "versionName": "0.42",
   "urls": [
-    "https://ghfast.top/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.39.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.39.apk"
+    "https://ghfast.top/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.42.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.42.apk"
   ],
-  "sha256": "89e5dadc7168fcd6d7c4b60006183e32be26a14e7af22eeea18ee14f9d355296",
-  "notes": "长按说话：输入框空着时右边是麦克风，按住说、松开直接发，上划取消。说的话在手机上转成文字，音频不上传。手机没有语音识别服务的话麦克风按钮不会出现。"
+  "sha256": "36c465532b3f7ac453fb882a94ac071e6ef4946624553dc00a04a657e73b1b48",
+  "notes": "输入框改成豆包那样：点一下打字，按住说话（上划取消）。占位符会写「发消息或按住说话」。顺带修了加号和发送图标在圆钮里没居中的问题。"
 }
