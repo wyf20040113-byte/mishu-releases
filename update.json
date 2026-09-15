@@ -1,13 +1,13 @@
 {
-  "versionCode": 42,
-  "versionName": "0.42",
+  "versionCode": 46,
+  "versionName": "0.46",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.42.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.42.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.42.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.42.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.42.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.46.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.46.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.46.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.46.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.46.apk"
   ],
-  "sha256": "36c465532b3f7ac453fb882a94ac071e6ef4946624553dc00a04a657e73b1b48",
-  "notes": "输入框改成豆包那样：点一下打字，按住说话（上划取消）。顺带修了加号和发送图标在圆钮里没居中。（本次还修了下载源：之前 APK 只挂了两个国内不通的地址。）"
+  "sha256": "83d36836c217797781f298da1dd22612c4147cf5a4a34a60d20914860262f2f6",
+  "notes": "修了提醒不弹：网络切换后后台连接会悄悄卡死，现在会自动重连。「通知与后台」能看到上次提醒到没到、弹没弹，还能「发一条试试」。顺带修了设置页里 ＋ 盖住「取消」。"
 }
