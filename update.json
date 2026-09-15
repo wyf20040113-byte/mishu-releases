@@ -1,13 +1,13 @@
 {
-  "versionCode": 46,
-  "versionName": "0.46",
+  "versionCode": 47,
+  "versionName": "0.47",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.46.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.46.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.46.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.46.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.46.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.47.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.47.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.47.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.47.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.47.apk"
   ],
-  "sha256": "83d36836c217797781f298da1dd22612c4147cf5a4a34a60d20914860262f2f6",
-  "notes": "修了提醒不弹：网络切换后后台连接会悄悄卡死，现在会自动重连。「通知与后台」能看到上次提醒到没到、弹没弹，还能「发一条试试」。顺带修了设置页里 ＋ 盖住「取消」。"
+  "sha256": "83595b079e049b5d40c0a50df5c503fda337220b394729c8cc118f053138a421",
+  "notes": "修了后台服务闪几下就消失、之后收不到提醒：Android 15 对原来那种后台服务每天限 6 小时，到点就被停掉。换成不限时的类型，出问题也会停下来等重试，不再反复崩。「通知与后台」会显示后台出过什么问题。"
 }
