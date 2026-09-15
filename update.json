@@ -1,13 +1,13 @@
 {
-  "versionCode": 48,
-  "versionName": "0.48",
+  "versionCode": 49,
+  "versionName": "0.49",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.48.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.48.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.48.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.48.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.48.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.49.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.49.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.49.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.49.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.49.apk"
   ],
-  "sha256": "af7a9bfd12b9b7281e10d1efdd164f833e1632290d0bf2fb571aec06b5cefed4",
-  "notes": "群聊搬到手机上了：侧边栏「群聊」能看电脑上的群聊、@Claude/@Codex 派活；agent 等你批准时通知栏直接点允许/拒绝。用之前在 设置 → 高级设置 填上派发口令。"
+  "sha256": "232710d1e85f74ee07bdc675084050faf3c4ef279a79954b4bcc4b9a0090cd45",
+  "notes": "改名「小满」：app 名、图标都换了，设置里「形象与名字」能在 8 个形象里换（名字和它说话的自称一起换）。群聊页点成员标签能换模型和权限。"
 }
