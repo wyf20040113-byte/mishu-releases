@@ -1,13 +1,13 @@
 {
-  "versionCode": 51,
-  "versionName": "0.51",
+  "versionCode": 52,
+  "versionName": "0.52",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.51.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.51.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.51.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.51.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.51.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.52.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.52.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.52.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.52.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.52.apk"
   ],
-  "sha256": "68e5c6f32cab15f7a0953b58304ceb80007fe1ee416abb549bafe7d39ef7fce7",
-  "notes": "待办、记忆、其它 agent 各成一页：点开直接看，不再是替你打一句话问小满再等它回一段文字。设置面板点上方空白处能退出去了；抽屉、设置、群聊页开关都补上了动画。形象页底下能自己给它起名字。"
+  "sha256": "59564e2915cb232395e3ce4478923b4c788a5b3059de7d87bb9e0e07852e4147",
+  "notes": "修装不上：之前的包带着「可调试」标记，小米的安全检测一律当风险拦，怎么试都过不去。这一版是正式包，没有那个标记。签名没变，直接覆盖安装即可。功能同 0.51：待办、记忆、其它 agent 各成一页；设置面板点上方空白能退出；抽屉和各层都补了动画；形象页能自己给它起名字。"
 }
