@@ -1,13 +1,13 @@
 {
-  "versionCode": 50,
-  "versionName": "0.50",
+  "versionCode": 51,
+  "versionName": "0.51",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.50.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.50.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.50.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.50.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.50.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.51.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.51.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.51.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.51.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.51.apk"
   ],
-  "sha256": "ce3f94a7d75c138fc4f58d3130dad33c0f5a2dbd6e776a96ac1cc8621e1ae699",
-  "notes": "扫码配对：在电脑上打开小满网页 → 账户 → 手机配对，用「设置 → 高级 → 扫码配对」拍一下那张码，服务器、topic、token、派发口令四栏自动填好，不用再一个字一个字敲。「加入家庭」那页也能扫邀请码。界面上剩下的 emoji 也换成了自己的图标。"
+  "sha256": "68e5c6f32cab15f7a0953b58304ceb80007fe1ee416abb549bafe7d39ef7fce7",
+  "notes": "待办、记忆、其它 agent 各成一页：点开直接看，不再是替你打一句话问小满再等它回一段文字。设置面板点上方空白处能退出去了；抽屉、设置、群聊页开关都补上了动画。形象页底下能自己给它起名字。"
 }
