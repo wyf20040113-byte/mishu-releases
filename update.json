@@ -1,13 +1,13 @@
 {
-  "versionCode": 53,
-  "versionName": "0.53",
+  "versionCode": 54,
+  "versionName": "0.54",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.53.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.53.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.53.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.53.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.53.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.54.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.54.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.54.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.54.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.54.apk"
   ],
-  "sha256": "980422edc4765890ae6dea3239df53926e171f4ea60e564959b640809fd5882d",
-  "notes": "新增「技能」页：侧边栏里能看到小满现在会什么，每一项开着没、状态怎么样。第一个技能是价位策略：交易时段到价推你，收盘后自己重算第二天的价位；改价位在电脑网页上，或者直接跟小满说。签名没变，直接覆盖安装。"
+  "sha256": "ad77924e4b1613cafefb4701ef3af3059751bbeea365a35a9b4433d292e072f8",
+  "notes": "输入框学豆包：点「+」从下面顶出面板，最近照片铺成四列方格墙，点一张先放进输入框、配句话再发（顺带修了照片被挤变形）。快捷那一排最前面能直接换对话模型。支持滑动：右划拉出侧边栏、子页面右划返回、底部卡片下拉收起；返回键一层层关，不会再直接退出。签名没变，直接覆盖安装。"
 }
