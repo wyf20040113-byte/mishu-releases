@@ -1,13 +1,13 @@
 {
-  "versionCode": 52,
-  "versionName": "0.52",
+  "versionCode": 53,
+  "versionName": "0.53",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.52.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.52.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.52.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.52.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.52.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.53.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.53.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.53.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.53.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.53.apk"
   ],
-  "sha256": "59564e2915cb232395e3ce4478923b4c788a5b3059de7d87bb9e0e07852e4147",
-  "notes": "修装不上：之前的包带着「可调试」标记，小米的安全检测一律当风险拦，怎么试都过不去。这一版是正式包，没有那个标记。签名没变，直接覆盖安装即可。功能同 0.51：待办、记忆、其它 agent 各成一页；设置面板点上方空白能退出；抽屉和各层都补了动画；形象页能自己给它起名字。"
+  "sha256": "980422edc4765890ae6dea3239df53926e171f4ea60e564959b640809fd5882d",
+  "notes": "新增「技能」页：侧边栏里能看到小满现在会什么，每一项开着没、状态怎么样。第一个技能是价位策略：交易时段到价推你，收盘后自己重算第二天的价位；改价位在电脑网页上，或者直接跟小满说。签名没变，直接覆盖安装。"
 }
