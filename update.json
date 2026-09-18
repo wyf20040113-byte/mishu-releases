@@ -1,13 +1,13 @@
 {
-  "versionCode": 54,
-  "versionName": "0.54",
+  "versionCode": 55,
+  "versionName": "0.55",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.54.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.54.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.54.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.54.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.54.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.55.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.55.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.55.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.55.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.55.apk"
   ],
-  "sha256": "ad77924e4b1613cafefb4701ef3af3059751bbeea365a35a9b4433d292e072f8",
-  "notes": "输入框学豆包：点「+」从下面顶出面板，最近照片铺成四列方格墙，点一张先放进输入框、配句话再发（顺带修了照片被挤变形）。快捷那一排最前面能直接换对话模型。支持滑动：右划拉出侧边栏、子页面右划返回、底部卡片下拉收起；返回键一层层关，不会再直接退出。签名没变，直接覆盖安装。"
+  "sha256": "986ec14461bc9b14418e99d5c995f60cd14512aec6d7465f5bf5b412b9a0f88b",
+  "notes": "模型按钮改成直接显示真实模型名（deepseek-v4-flash 这样），不再用 Flash、Pro 这类代称；菜单按厂家分组，没配好的会写明差什么。电脑那边这一版还加了「上网查」技能（选哪个模型都能搜）、股票资金流向，以及用 Claude / ChatGPT 订阅账号跟小满对话，手机上都能看到和用到。签名没变，直接覆盖安装。"
 }
