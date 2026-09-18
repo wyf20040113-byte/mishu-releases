@@ -1,13 +1,14 @@
 {
-  "versionCode": 55,
-  "versionName": "0.55",
+  "versionCode": 56,
+  "versionName": "0.56",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.55.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.55.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.55.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.55.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.55.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.56.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.56.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.56.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.56.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.56.apk"
   ],
-  "sha256": "986ec14461bc9b14418e99d5c995f60cd14512aec6d7465f5bf5b412b9a0f88b",
-  "notes": "模型按钮改成直接显示真实模型名（deepseek-v4-flash 这样），不再用 Flash、Pro 这类代称；菜单按厂家分组，没配好的会写明差什么。电脑那边这一版还加了「上网查」技能（选哪个模型都能搜）、股票资金流向，以及用 Claude / ChatGPT 订阅账号跟小满对话，手机上都能看到和用到。签名没变，直接覆盖安装。"
+  "sha256": "df7907c1ea83ee3f0fc2812645a15be5789c61b3b0278c098bb34606668b2c93",
+  "notes": "小满：自动升级模型后可展开查看升级原因和实际响应模型，兼容旧聊天记录，朗读只读正文。配套电脑端增加任务评估、进度保存与可选动态网页/文件编辑能力；正式服务迁到独立 xiaoman 目录。保留原包名和签名，可通过检查更新覆盖安装。",
+  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.56.apk"
 }
