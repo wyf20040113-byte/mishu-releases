@@ -1,14 +1,14 @@
 {
-  "versionCode": 60,
-  "versionName": "0.60",
+  "versionCode": 61,
+  "versionName": "0.61",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.60.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.60.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.60.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.60.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.60.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.61.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.61.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.61.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.61.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.61.apk"
   ],
-  "sha256": "3b62c5e3afb7753d8f8785119f749343a4479efa60000b8e4a64332bfbaa1682",
-  "notes": "新增按住说话开始短提示音与麦克风准备状态；松手或取消后不会延迟启动录音。新增模型管理页：独立卡片、能力状态、搜索、启用开关与详情设置，支持选择模型和保存设置回执。电脑端可在详情页管理服务商共用接口与密钥。原签名覆盖更新。",
-  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.60.apk"
+  "sha256": "83259b8484cd9ecbc32cf479e57263f280e43c7819d5fe4e8149c69e86bfeb20",
+  "notes": "技能页精简：名字缩短，每个技能都能开关（关掉的不再发给模型，对话更轻快）。点开技能看详情，盯价位逐条列出，户主可在手机上直接改价位。修正技能页「xx 的状态」时间显示错乱。原签名覆盖更新。",
+  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.61.apk"
 }
