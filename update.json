@@ -1,14 +1,14 @@
 {
-  "versionCode": 61,
-  "versionName": "0.61",
+  "versionCode": 62,
+  "versionName": "0.62",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.61.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.61.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.61.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.61.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.61.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.62.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.62.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.62.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.62.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.62.apk"
   ],
-  "sha256": "83259b8484cd9ecbc32cf479e57263f280e43c7819d5fe4e8149c69e86bfeb20",
-  "notes": "技能页精简：名字缩短，每个技能都能开关（关掉的不再发给模型，对话更轻快）。点开技能看详情，盯价位逐条列出，户主可在手机上直接改价位。修正技能页「xx 的状态」时间显示错乱。原签名覆盖更新。",
-  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.61.apk"
+  "sha256": "f23ed2751971cae14f2e35da9333c45edfd8117e05e5352b890fd541a4b49f9b",
+  "notes": "模型与服务商移入设置：独立服务商卡片、完整配置详情、启用开关、模型能力与选择。手机可加密保存接口密钥并等待电脑确认。本地环境支持版本检查、安装升级与安装冲突诊断；独立 CLI、桌面内置 CLI、桌面应用分别检测与展示。保留 0.61 技能开关与价位详情，沿用原签名覆盖更新。",
+  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.62.apk"
 }
