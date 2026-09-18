@@ -1,14 +1,14 @@
 {
-  "versionCode": 62,
-  "versionName": "0.62",
+  "versionCode": 63,
+  "versionName": "0.63",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.62.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.62.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.62.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.62.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.62.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.63.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.63.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.63.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.63.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.63.apk"
   ],
-  "sha256": "f23ed2751971cae14f2e35da9333c45edfd8117e05e5352b890fd541a4b49f9b",
-  "notes": "模型与服务商移入设置：独立服务商卡片、完整配置详情、启用开关、模型能力与选择。手机可加密保存接口密钥并等待电脑确认。本地环境支持版本检查、安装升级与安装冲突诊断；独立 CLI、桌面内置 CLI、桌面应用分别检测与展示。保留 0.61 技能开关与价位详情，沿用原签名覆盖更新。",
-  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.62.apk"
+  "sha256": "8f0e747962afddcb8b017eb378d1978b0f6d2a89a7753f0c16b99f6eeff58df0",
+  "notes": "修复手机长期显示网络断开：实时接收不再等待历史记录加载，增加历史请求、建连和长连接无响应超时恢复；切回前台、网络恢复立即重连，取消旧请求避免相互覆盖。区分正在连接、自动重连和凭据错误提示。保留设置中心、服务商配置、CLI/桌面版本分检及技能功能，沿用原签名覆盖更新。",
+  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.63.apk"
 }
