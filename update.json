@@ -1,14 +1,14 @@
 {
-  "versionCode": 56,
-  "versionName": "0.56",
+  "versionCode": 57,
+  "versionName": "0.57",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.56.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.56.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.56.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.56.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.56.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.57.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.57.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.57.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.57.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.57.apk"
   ],
-  "sha256": "df7907c1ea83ee3f0fc2812645a15be5789c61b3b0278c098bb34606668b2c93",
-  "notes": "小满：自动升级模型后可展开查看升级原因和实际响应模型，兼容旧聊天记录，朗读只读正文。配套电脑端增加任务评估、进度保存与可选动态网页/文件编辑能力；正式服务迁到独立 xiaoman 目录。保留原包名和签名，可通过检查更新覆盖安装。",
-  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.56.apk"
+  "sha256": "64c4ab8f667182867138484da3eab86f77936933321cd2f54131358c46fa4d55",
+  "notes": "主对话新增操作确认卡片：执行命令、改文件前可查看内容并允许或拒绝；后台通知可点开确认。手机与电脑同步处理结果，支持断网重试，重复点击不会重复放行，十分钟未处理自动拒绝。保留原签名，可覆盖更新。",
+  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.57.apk"
 }
