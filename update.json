@@ -1,14 +1,14 @@
 {
-  "versionCode": 63,
-  "versionName": "0.63",
+  "versionCode": 64,
+  "versionName": "0.64",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.63.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.63.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.63.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.63.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.63.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.64.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.64.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.64.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.64.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.64.apk"
   ],
-  "sha256": "8f0e747962afddcb8b017eb378d1978b0f6d2a89a7753f0c16b99f6eeff58df0",
-  "notes": "修复手机长期显示网络断开：实时接收不再等待历史记录加载，增加历史请求、建连和长连接无响应超时恢复；切回前台、网络恢复立即重连，取消旧请求避免相互覆盖。区分正在连接、自动重连和凭据错误提示。保留设置中心、服务商配置、CLI/桌面版本分检及技能功能，沿用原签名覆盖更新。",
-  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.63.apk"
+  "sha256": "c1570adcf4525e309d6b3420477d784c1e67bcd75cf15abb130cf248e9d3367a",
+  "notes": "小满手机派发改为设备授权：首次用二维码或一次性配对码授权设备，之后直接交代任务，无需在聊天中输入口令；支持按 Agent 限制设备、撤销设备和撤销长期操作授权，确认卡片支持这次/本次任务/长期允许。保留旧口令首次迁移、原包名和签名，可通过检查更新覆盖安装。",
+  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.64.apk"
 }
