@@ -1,14 +1,14 @@
 {
-  "versionCode": 65,
-  "versionName": "0.65",
+  "versionCode": 144,
+  "versionName": "0.144",
+  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.144.apk",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.65.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.65.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.65.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.65.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.65.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.144.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.144.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.144.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.144.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.144.apk"
   ],
-  "sha256": "67282ddf577ef367ad20fb3a1abdbdfaca3eb431cf6fcca4816d75c6718d857b",
-  "notes": "界面重新设计：更亮的暖白底、大标题、技能列表带图标；聊天时间改成分组显示，朗读和复制收进长按菜单；盯价位显示现价和离触发还差多少，按远近排序，可以一条一条改；小满换成新画的 3D 形象，另有 2D 铜版画风可选。原签名覆盖更新。",
-  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.65.apk"
+  "sha256": "36f03e9c3b7c53864d84a907f12e0e896d36d8e449da0b6b530ac284885fc55b",
+  "notes": "新小满体验版：新版手机界面、设备授权与家庭连接、自动同步和待办修复。保留原连接设置。无法确认归属的旧本地聊天暂不自动显示，原缓存保留；恢复入口、界面9分与连续动画精修仍待补。请按系统提示覆盖安装。"
 }
