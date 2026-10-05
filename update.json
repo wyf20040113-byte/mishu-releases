@@ -1,14 +1,14 @@
 {
-  "versionCode": 149,
-  "versionName": "0.149",
-  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.149.apk",
+  "versionCode": 151,
+  "versionName": "0.151",
+  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.151.apk",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.149.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.149.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.149.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.149.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.149.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.151.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.151.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.151.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.151.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.151.apk"
   ],
-  "sha256": "be5b3a604e44e456cdd5f3d51f72bb6112af8062b021dfbe8b6f38b52f1dd3bc",
-  "notes": "首页的两块色块现在一直都在：今天没有到点的事时，也能看到下一件和待办还剩几件。"
+  "sha256": "a72351df39efe0ceff9dcc28a4374e0a4662ae11b1a632d840ba62b0968164df",
+  "notes": "顶上状态栏那一条跟页面同色了，不再是一条黑边；侧边菜单换成彩色方块。"
 }
