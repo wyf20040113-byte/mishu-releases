@@ -1,14 +1,14 @@
 {
-  "versionCode": 147,
-  "versionName": "0.147",
-  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.147.apk",
+  "versionCode": 148,
+  "versionName": "0.148",
+  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.148.apk",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.147.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.147.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.147.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.147.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.147.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.148.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.148.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.148.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.148.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.148.apk"
   ],
-  "sha256": "1b65e20d6ed0bee841f5d6ee10d3d840616cfc51f2a0d1d1aa73d8460d54806c",
-  "notes": "新样子：首页能直接看到今天的提醒并勾掉，待办按天排好，输入框多了麦克风键，小满换成了汤圆。原来的连接和数据都保留。"
+  "sha256": "4732fe65b641dab40f3e11eefeeba532e62c32b8143b3824e339698ed757f7ea",
+  "notes": "桌面图标换成了汤圆。小满的形象只留汤圆一个。其余和 0.147 一样，连接和数据都保留。"
 }
