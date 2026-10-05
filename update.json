@@ -1,14 +1,14 @@
 {
-  "versionCode": 152,
-  "versionName": "0.152",
-  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.152.apk",
+  "versionCode": 154,
+  "versionName": "0.154",
+  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.154.apk",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.152.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.152.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.152.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.152.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.152.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.154.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.154.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.154.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.154.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.154.apk"
   ],
-  "sha256": "95d2e4651e240dc4d9e09f0a700555e1eab9dbc4d1c00f10391b078b2c8d4890",
-  "notes": "模型与服务商、设备与授权、群聊、设置这几页换成了新样子；设备页两边不再留那么宽的空。"
+  "sha256": "b53f8ce16cb11d8cb6cbab3c899f9e9af574bb04d3c4d6b366b7a0af7d0005d9",
+  "notes": "设置里各页换成了新样子：开关、输入框、提醒说明都重新排过；「模型与服务商」「设备与授权」换成了各自的图标。"
 }
