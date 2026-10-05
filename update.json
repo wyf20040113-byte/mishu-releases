@@ -1,14 +1,14 @@
 {
-  "versionCode": 148,
-  "versionName": "0.148",
-  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.148.apk",
+  "versionCode": 149,
+  "versionName": "0.149",
+  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.149.apk",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.148.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.148.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.148.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.148.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.148.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.149.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.149.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.149.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.149.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.149.apk"
   ],
-  "sha256": "4732fe65b641dab40f3e11eefeeba532e62c32b8143b3824e339698ed757f7ea",
-  "notes": "桌面图标换成了汤圆。小满的形象只留汤圆一个。其余和 0.147 一样，连接和数据都保留。"
+  "sha256": "be5b3a604e44e456cdd5f3d51f72bb6112af8062b021dfbe8b6f38b52f1dd3bc",
+  "notes": "首页的两块色块现在一直都在：今天没有到点的事时，也能看到下一件和待办还剩几件。"
 }
