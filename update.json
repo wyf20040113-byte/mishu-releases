@@ -1,7 +1,7 @@
 {
-  "versionCode": 151,
-  "versionName": "0.151",
-  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.151.apk",
+  "versionCode": 152,
+  "versionName": "0.152",
+  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.152.apk",
   "urls": [
     "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.151.apk",
     "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.151.apk",
@@ -9,6 +9,6 @@
     "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.151.apk",
     "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.151.apk"
   ],
-  "sha256": "a72351df39efe0ceff9dcc28a4374e0a4662ae11b1a632d840ba62b0968164df",
+  "sha256": "95d2e4651e240dc4d9e09f0a700555e1eab9dbc4d1c00f10391b078b2c8d4890",
   "notes": "顶上状态栏那一条跟页面同色了，不再是一条黑边；侧边菜单换成彩色方块。"
 }
