@@ -1,14 +1,14 @@
 {
-  "versionCode": 155,
-  "versionName": "0.155",
-  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.155.apk",
+  "versionCode": 156,
+  "versionName": "0.156",
+  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.156.apk",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.155.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.155.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.155.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.155.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.155.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.156.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.156.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.156.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.156.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.156.apk"
   ],
-  "sha256": "bb7fb6f00b639fdee38323eb17bcbdfc8b623383a6c67aca81f6239d851e730f",
-  "notes": "发图片后不再出现「附件已送达」那条提示；自己发的话也能长按复制了；点开对话里的图可以保存到相册。"
+  "sha256": "44fe12b767dfa3c505ae32674049cff66c2aa28e4259b2b95ae0e28dc930d51b",
+  "notes": "可以直连电脑上的小满了：在「高级设置」填上直连地址后，文字和图片不再绕中转，连不上会自动改回原来的方式。不填就和以前一样。"
 }
