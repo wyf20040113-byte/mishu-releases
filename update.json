@@ -1,14 +1,14 @@
 {
-  "versionCode": 156,
-  "versionName": "0.156",
-  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.156.apk",
+  "versionCode": 157,
+  "versionName": "0.157",
+  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.157.apk",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.156.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.156.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.156.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.156.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.156.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.157.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.157.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.157.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.157.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.157.apk"
   ],
-  "sha256": "44fe12b767dfa3c505ae32674049cff66c2aa28e4259b2b95ae0e28dc930d51b",
-  "notes": "可以直连电脑上的小满了：在「高级设置」填上直连地址后，文字和图片不再绕中转，连不上会自动改回原来的方式。不填就和以前一样。"
+  "sha256": "547ebffc7615e16f2382c1426aff50074a220928ea45e0060c9274af07c8a803",
+  "notes": "聊天改成直接连电脑上的小满，不再绕中转，回得更快；什么都不用填，更新后自动生效。连不上时会自动改回原来的方式。"
 }
