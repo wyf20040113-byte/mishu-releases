@@ -1,14 +1,14 @@
 {
-  "versionCode": 157,
-  "versionName": "0.157",
-  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.157.apk",
+  "versionCode": 158,
+  "versionName": "0.158",
+  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.158.apk",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.157.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.157.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.157.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.157.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.157.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.158.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.158.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.158.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.158.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.158.apk"
   ],
-  "sha256": "547ebffc7615e16f2382c1426aff50074a220928ea45e0060c9274af07c8a803",
-  "notes": "聊天改成直接连电脑上的小满，不再绕中转，回得更快；什么都不用填，更新后自动生效。连不上时会自动改回原来的方式。"
+  "sha256": "6874be0c801d80853bc260e0dbcdd3bdbd7b23c893b85f7e140cc9b2bab5214a",
+  "notes": "发消息更利落了：一点发送，自己这句（包括图片）马上出现在对话里，输入框立刻清空，不用等小满回完；发送时加了一个上滑的小动画。"
 }
