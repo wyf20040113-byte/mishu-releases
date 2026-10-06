@@ -1,14 +1,14 @@
 {
-  "versionCode": 158,
-  "versionName": "0.158",
-  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.158.apk",
+  "versionCode": 159,
+  "versionName": "0.159",
+  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.159.apk",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.158.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.158.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.158.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.158.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.158.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.159.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.159.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.159.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.159.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.159.apk"
   ],
-  "sha256": "6874be0c801d80853bc260e0dbcdd3bdbd7b23c893b85f7e140cc9b2bab5214a",
-  "notes": "发消息更利落了：一点发送，自己这句（包括图片）马上出现在对话里，输入框立刻清空，不用等小满回完；发送时加了一个上滑的小动画。"
+  "sha256": "079867899359eab0a26b6321aa595bd551ddf375a494abf76106edd1d52d71e3",
+  "notes": "发送动画改得更轻：气泡轻轻上浮出现，不再弹一下。"
 }
