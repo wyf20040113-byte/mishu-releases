@@ -1,14 +1,14 @@
 {
-  "versionCode": 154,
-  "versionName": "0.154",
-  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.154.apk",
+  "versionCode": 155,
+  "versionName": "0.155",
+  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.155.apk",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.154.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.154.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.154.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.154.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.154.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.155.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.155.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.155.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.155.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.155.apk"
   ],
-  "sha256": "b53f8ce16cb11d8cb6cbab3c899f9e9af574bb04d3c4d6b366b7a0af7d0005d9",
-  "notes": "设置里各页换成了新样子：开关、输入框、提醒说明都重新排过；「模型与服务商」「设备与授权」换成了各自的图标。"
+  "sha256": "bb7fb6f00b639fdee38323eb17bcbdfc8b623383a6c67aca81f6239d851e730f",
+  "notes": "发图片后不再出现「附件已送达」那条提示；自己发的话也能长按复制了；点开对话里的图可以保存到相册。"
 }
