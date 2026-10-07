@@ -1,14 +1,14 @@
 {
-  "versionCode": 165,
-  "versionName": "0.165",
-  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.165.apk",
+  "versionCode": 166,
+  "versionName": "0.166",
+  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.166.apk",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.165.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.165.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.165.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.165.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.165.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.166.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.166.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.166.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.166.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.166.apk"
   ],
-  "sha256": "ee011f36aa11c26fdd5990f844659004331562c91a508114e8485b36d3259fb5",
-  "notes": "小满现在能把电脑上的文件和图片发给你：图片直接显示，文件点一下存到手机。群聊里做过的命令收成一行，回复排在最后；不再冒出「待办清单」那条消息。"
+  "sha256": "fa0c535740f513d02acb9988bf50e637dd51b178806227bf2057f7c015bd14c5",
+  "notes": "可以让小满定时自己去办事了：跟它说「每天早上 8 点查一下……发我一份」，到点它自己做完把结果发来。待办页多了一栏「定时任务」，可以暂停、恢复、删除。"
 }
