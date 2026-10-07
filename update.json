@@ -1,14 +1,14 @@
 {
-  "versionCode": 163,
-  "versionName": "0.163",
-  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.163.apk",
+  "versionCode": 164,
+  "versionName": "0.164",
+  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.164.apk",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.163.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.163.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.163.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.163.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.163.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.164.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.164.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.164.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.164.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.164.apk"
   ],
-  "sha256": "1aa0488aeb8f04d96988104ec8779fc8e871690adcec93076fb3894755c78d89",
-  "notes": "小满回话里的链接现在可以直接点开，在 app 里看网页，不用跳出去；右上角「⋯」里可以刷新、复制链接、换系统浏览器打开。"
+  "sha256": "9d57ae4334ea2a366740b319335f718b7ca7cc8bb718e9c2cfad31b6d55e4c7a",
+  "notes": "小满回话现在边想边出字，不用等整段写完；它在查东西时会显示正在做什么。"
 }
