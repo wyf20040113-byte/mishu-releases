@@ -1,14 +1,14 @@
 {
-  "versionCode": 159,
-  "versionName": "0.159",
-  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.159.apk",
+  "versionCode": 160,
+  "versionName": "0.160",
+  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.160.apk",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.159.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.159.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.159.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.159.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.159.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.160.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.160.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.160.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.160.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.160.apk"
   ],
-  "sha256": "079867899359eab0a26b6321aa595bd551ddf375a494abf76106edd1d52d71e3",
-  "notes": "发送动画改得更轻：气泡轻轻上浮出现，不再弹一下。"
+  "sha256": "4cecc322915d9aeaab177af31e0e979521675f911230c8a5b711b6ff90a63539",
+  "notes": "小满在电脑上动手前不用每步都点了：确认卡片多了「本轮都允许」，设置里可以选每次都问、自动（只是查看的直接做）、全部放行。首页的两块提醒变矮了，没事的时候不再占地方。"
 }
