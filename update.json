@@ -1,14 +1,14 @@
 {
-  "versionCode": 162,
-  "versionName": "0.162",
-  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.162.apk",
+  "versionCode": 163,
+  "versionName": "0.163",
+  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.163.apk",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.162.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.162.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.162.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.162.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.162.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.163.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.163.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.163.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.163.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.163.apk"
   ],
-  "sha256": "93873d7ca92df264d5c9573900b273195bbe8e38fbfebf3f9d243840a8308510",
-  "notes": "记忆、技能和模型列表现在能看全了，打开这几页会自己刷新，不用再手动点更新。"
+  "sha256": "1aa0488aeb8f04d96988104ec8779fc8e871690adcec93076fb3894755c78d89",
+  "notes": "小满回话里的链接现在可以直接点开，在 app 里看网页，不用跳出去；右上角「⋯」里可以刷新、复制链接、换系统浏览器打开。"
 }
