@@ -1,14 +1,14 @@
 {
-  "versionCode": 166,
-  "versionName": "0.166",
-  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.166.apk",
+  "versionCode": 167,
+  "versionName": "0.167",
+  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.167.apk",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.166.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.166.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.166.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.166.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.166.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.167.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.167.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.167.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.167.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.167.apk"
   ],
-  "sha256": "fa0c535740f513d02acb9988bf50e637dd51b178806227bf2057f7c015bd14c5",
-  "notes": "可以让小满定时自己去办事了：跟它说「每天早上 8 点查一下……发我一份」，到点它自己做完把结果发来。待办页多了一栏「定时任务」，可以暂停、恢复、删除。"
+  "sha256": "13071b0d0be6212967f15d3cd2265be700113ca3ad43a2df8bf89e27500e71a3",
+  "notes": "群聊接入 Cursor、OpenCode，并按实际能力显示权限；额度页补齐本机 agent 清单，明确未知和过期状态。"
 }
