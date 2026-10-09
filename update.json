@@ -1,14 +1,14 @@
 {
-  "versionCode": 167,
-  "versionName": "0.167",
-  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.167.apk",
+  "versionCode": 168,
+  "versionName": "0.168",
+  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.168.apk",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.167.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.167.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.167.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.167.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.167.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.168.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.168.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.168.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.168.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.168.apk"
   ],
-  "sha256": "13071b0d0be6212967f15d3cd2265be700113ca3ad43a2df8bf89e27500e71a3",
-  "notes": "群聊接入 Cursor、OpenCode，并按实际能力显示权限；额度页补齐本机 agent 清单，明确未知和过期状态。"
+  "sha256": "c21514972750d6d4bc2152bc09aa343709175bf9018eab3e56d632fa102f71a4",
+  "notes": "主对话同步：在电脑上和小满聊的内容，手机上也能看到了。"
 }
