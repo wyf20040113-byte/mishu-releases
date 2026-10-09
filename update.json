@@ -1,14 +1,14 @@
 {
-  "versionCode": 171,
-  "versionName": "0.171",
-  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.171.apk",
+  "versionCode": 172,
+  "versionName": "0.172",
+  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.172.apk",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.171.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.171.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.171.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.171.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.171.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.172.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.172.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.172.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.172.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.172.apk"
   ],
-  "sha256": "84a49d22bb8fb754193cfb47b320c9dff725195778ac9cc0c8ff6e833b95dc24",
-  "notes": "切权限档位、改设置、点确认卡的允许和拒绝，现在直接发给电脑，半秒内有结果。\n在电脑上改了档位、模型、待办，手机会马上跟着更新。"
+  "sha256": "b0579106bc66b77c47bce3194e99b6069c952326f997c727c5b10f6c1e61b6e1",
+  "notes": "换模型、换形象、技能开关、待办勾选、群聊命令也直接发给电脑了，点完马上有结果。\n模型菜单里多了 OpenCode Go 的型号和 Claude 订阅。"
 }
