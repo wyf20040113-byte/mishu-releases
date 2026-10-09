@@ -1,14 +1,14 @@
 {
-  "versionCode": 169,
-  "versionName": "0.169",
-  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.169.apk",
+  "versionCode": 170,
+  "versionName": "0.170",
+  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.170.apk",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.169.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.169.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.169.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.169.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.169.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.170.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.170.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.170.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.170.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.170.apk"
   ],
-  "sha256": "f6b84725cd6a048b9837a4699cb4f7035a69ea200886eb3595b3cefbd2167452",
-  "notes": "动手权限的滑块一点就移过去，不用关掉重开。"
+  "sha256": "84013b08780084f1a32c5bfe14574fe380abaffebeb5d093f4e487e61f5f1f51",
+  "notes": "手机上可以切换和新建对话了（顶栏的对话按钮）。\n电脑和手机的对话实时保持一致：一边发的话，另一边马上出现，顺序也一样。"
 }
