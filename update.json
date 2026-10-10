@@ -1,14 +1,14 @@
 {
-  "versionCode": 173,
-  "versionName": "0.173",
-  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.173.apk",
+  "versionCode": 174,
+  "versionName": "0.174",
+  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.174.apk",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.173.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.173.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.173.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.173.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.173.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.174.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.174.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.174.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.174.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.174.apk"
   ],
-  "sha256": "9937ede11de99f3b6247a1119cd842ac17d5648f042cd7e88560e21897202a66",
-  "notes": "电脑不在线时也能和小满对话了：手机会直接回答，电脑回来后这段对话自动并回去。离线时做不了动电脑、改待办、联网查这些事，它会直说。\n对话里不再出现「设备请求校验失败」「共用区索引」这类后台提示。"
+  "sha256": "63bd17cc6fa706ce5535db95a3aa6118383f8f5f12525cfdc09e17b25f10064b",
+  "notes": "新增「操作手机」：点亮聊天页的「操作手机」，说一件事，小满自己去打开应用、点击、输入。第一次用要在系统设置的无障碍里打开「小满 · 操作手机」。每件事开始前会让你确认一次；按音量下键随时停止；支付、银行类应用它不动。\n手机离线对话改用国内直连稳定的线路。"
 }
