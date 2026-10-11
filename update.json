@@ -1,14 +1,14 @@
 {
-  "versionCode": 175,
-  "versionName": "0.175",
-  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.175.apk",
+  "versionCode": 176,
+  "versionName": "0.176",
+  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.176.apk",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.175.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.175.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.175.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.175.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.175.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.176.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.176.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.176.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.176.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.176.apk"
   ],
-  "sha256": "1f6b9d709fe91847f57f76eb5833fe97a2f85ac871899e2dd7bbdfea56b9e765",
-  "notes": "新增「目标」：点输入框的「＋」→「目标」，说一件要花功夫的事，小满在电脑上一轮接一轮自己做完。聊天页顶上能看到进度，点开可以看清单、暂停、停止、回答它的提问；它要执行命令时会先让你确认。\n「操作手机」也放进了「＋」面板（原来那个按钮聊过天后会收起来，找不到）。\n按返回键可以关掉对话列表和进度面板。"
+  "sha256": "0254793d2a04dba31c20ef1bf6ac47e3c7d31cf7c4e4dd571813fed53f7cf6ad",
+  "notes": "小满会自己学本事了：做成一件事后它会记下做法，下次同类的事照着做；缺工具时会提议安装，每一次都要你在确认卡上点允许。\n侧边栏「技能」页下面多了三段：等你看一眼（读过网页学来的做法，你点「留下」才会用）、学到的做法（可以停用、回到上一版、删除）、装的工具（可以停用、卸载）。"
 }
