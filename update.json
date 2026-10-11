@@ -1,14 +1,14 @@
 {
-  "versionCode": 176,
-  "versionName": "0.176",
-  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.176.apk",
+  "versionCode": 177,
+  "versionName": "0.177",
+  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.177.apk",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.176.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.176.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.176.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.176.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.176.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.177.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.177.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.177.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.177.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.177.apk"
   ],
-  "sha256": "0254793d2a04dba31c20ef1bf6ac47e3c7d31cf7c4e4dd571813fed53f7cf6ad",
-  "notes": "小满会自己学本事了：做成一件事后它会记下做法，下次同类的事照着做；缺工具时会提议安装，每一次都要你在确认卡上点允许。\n侧边栏「技能」页下面多了三段：等你看一眼（读过网页学来的做法，你点「留下」才会用）、学到的做法（可以停用、回到上一版、删除）、装的工具（可以停用、卸载）。"
+  "sha256": "fbbf81625061703b0d44ae62c80e98518a3bd347fb230cfb982ae13347227ae6",
+  "notes": "排着队的时候会告诉你在等什么：电脑上的定时任务在跑、或者另一句话还没回完时，「正在想」会改成「排在定时任务「…」后面」这样的说明，轮到了再变回来。排队的时间不再算进「三分钟没回应」。"
 }
