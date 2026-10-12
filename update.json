@@ -1,14 +1,14 @@
 {
-  "versionCode": 177,
-  "versionName": "0.177",
-  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.177.apk",
+  "versionCode": 178,
+  "versionName": "0.178",
+  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.178.apk",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.177.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.177.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.177.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.177.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.177.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.178.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.178.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.178.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.178.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.178.apk"
   ],
-  "sha256": "fbbf81625061703b0d44ae62c80e98518a3bd347fb230cfb982ae13347227ae6",
-  "notes": "排着队的时候会告诉你在等什么：电脑上的定时任务在跑、或者另一句话还没回完时，「正在想」会改成「排在定时任务「…」后面」这样的说明，轮到了再变回来。排队的时间不再算进「三分钟没回应」。"
+  "sha256": "d14d5a51afeb92d6ae8e96278151abd0e5f18b954c9fe1362fba0a9f16017732",
+  "notes": "电脑不在线时好用多了：修掉了「手机回答过一句之后，接下来的话没人回」的问题；刚关机就问也会由手机直接回答。离线时小满能自己上网搜、打开网页读正文了。让它画的 SVG 现在直接显示成图，点开能看大图、存相册。"
 }
