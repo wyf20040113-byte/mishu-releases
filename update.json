@@ -1,14 +1,14 @@
 {
-  "versionCode": 179,
-  "versionName": "0.179",
-  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.179.apk",
+  "versionCode": 180,
+  "versionName": "0.180",
+  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.180.apk",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.179.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.179.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.179.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.179.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.179.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.180.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.180.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.180.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.180.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.180.apk"
   ],
-  "sha256": "fcf668a04b7318acd327d7d9f4fd1dee2134d5bd7ade12dfafd6bab35cc74f32",
-  "notes": "电脑不在线时的对话不再限制长度：回答不会再因为字数上限被截断，画图、长文都能写完；一句话里可以连着查更多次资料，带的聊天记录也更长。模型会先想一想再回答，复杂的问题答得更好，画一张图大约要二三十秒。"
+  "sha256": "e595119da4af8820aa4e7d31c5b2888402e99bfcc6fbcd4b1dd2f056fe3d290c",
+  "notes": "新增「通话」：点输入框上面的「通话」（聊天时在「+」里），说一句、听一句，不用按键；小满念的时候点一下屏幕可以打断，按返回键或「挂断」结束。这是第一版，声音暂时还是手机自带的，等电脑端更新后会自动换成电脑合成的声音，平时的朗读也一样。"
 }
