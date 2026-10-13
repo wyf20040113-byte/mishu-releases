@@ -1,14 +1,14 @@
 {
-  "versionCode": 180,
-  "versionName": "0.180",
-  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.180.apk",
+  "versionCode": 181,
+  "versionName": "0.181",
+  "url": "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.181.apk",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.180.apk",
-    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.180.apk",
-    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.180.apk",
-    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.180.apk",
-    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.180.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.181.apk",
+    "https://gcore.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.181.apk",
+    "https://cdn.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.181.apk",
+    "https://raw.githubusercontent.com/wyf20040113-byte/mishu-releases/main/apk/mishu-0.181.apk",
+    "https://fastly.jsdelivr.net/gh/wyf20040113-byte/mishu-releases@main/apk/mishu-0.181.apk"
   ],
-  "sha256": "e595119da4af8820aa4e7d31c5b2888402e99bfcc6fbcd4b1dd2f056fe3d290c",
-  "notes": "新增「通话」：点输入框上面的「通话」（聊天时在「+」里），说一句、听一句，不用按键；小满念的时候点一下屏幕可以打断，按返回键或「挂断」结束。这是第一版，声音暂时还是手机自带的，等电脑端更新后会自动换成电脑合成的声音，平时的朗读也一样。"
+  "sha256": "aeb4e40ba97bdc9b26e71ba1e70296974d909a3fde947819cc767f4283f5ddf3",
+  "notes": "修了一个问题：发完消息切到后台，回来以后看不到回复（电脑其实已经回了）。现在回来会补上，不会再丢。另外：设置 → 声音里可以选嗓音，点一个就换并试听；朗读和通话时短句连在一起念，停顿更自然；小满现在会画图，说「画一张……」，半分钟到一分钟后图会发到对话里。"
 }
